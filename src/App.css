@@ -37,7 +37,7 @@ ul{
 
 .icons-header:hover{
   transform: scale(1.1);
-  color: #2D3A43;
+  color: rgb(51, 51, 80);
   
 }
 .logo{

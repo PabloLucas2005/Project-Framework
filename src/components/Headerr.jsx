@@ -11,7 +11,7 @@ function Headerr(){
         <header>
             <div className='logo-header'>
                 <img src={LOGO} alt="" className='logo' />
-                <h1>CODEMASTER</h1>
+                <a href="../App.jsx"><h1>CODEMASTER</h1></a>
             </div>
             <div>
                 <ul>
