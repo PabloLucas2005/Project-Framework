@@ -1,5 +1,4 @@
 import '../App.css'
-import LOGO from '../img/LOGO.png'
 import { BiHomeAlt2 } from "react-icons/bi";
 import { HiOutlineUserGroup } from "react-icons/hi";
 import { BiLogoDiscourse } from "react-icons/bi";
@@ -10,7 +9,6 @@ function Headerr(){
         
         <header>
             <div className='logo-header'>
-                <img src={LOGO} alt="" className='logo' />
                 <a href="../App.jsx"><h1>CODEMASTER</h1></a>
             </div>
             <div>
