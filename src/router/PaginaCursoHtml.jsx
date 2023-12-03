@@ -1,10 +1,11 @@
 import React from 'react' 
-function PaginaCUrsoHtml(){
+
+function PaginaCursoHtml(){
     return(
         <>
-            <h1>a</h1>
+           <h1>texto</h1>
         </>
     )
 }
 
-export default PaginaCUrsoHtml
+export default PaginaCursoHtml

@@ -1,5 +1,5 @@
 {
-  "homepage":"https://PabloLucas2005.github.io/Project-Framework",
+  "homepage": "https://PabloLucas2005.github.io/Project-Framework",
   "name": "Project-Framework",
   "private": true,
   "version": "0.0.0",
@@ -9,10 +9,11 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "axios": "^1.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.11.0"

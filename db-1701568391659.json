@@ -1,0 +1,22 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "5 MINUTOS DE HTML PARA INICIAR EM PROGRAMAÇÃO!",
+      "description": "No vídeo de hoje eu explico um pouco da linguagem de marcação HTML, de forma bem direta e prática! ",
+      "url": "https://www.youtube.com/watch?v=3oSIqIqzN3M"
+    },
+    {
+      "id": "2",
+      "title": "O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES)",
+      "description": "No vídeo de hoje eu explico um pouco de CSS, a linguagem de estilização de páginas web, de forma bem direta e prática!",
+      "url": "https://www.youtube.com/watch?v=LWU2OR19ZG4"
+    },
+    {
+      "id": "3",
+      "title": "O que é Javascript? Por que devemos saber hoje? O que ele faz?",
+      "description": "Bora conversar um pouco sobre essa linguagem tão falada atualmente, JAVASCRIPT! ",
+      "url": "https://www.youtube.com/watch?v=QnLSBuykGxI"
+    }
+  ]
+}
